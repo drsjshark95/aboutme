@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <title>All me</title>
+</head>
+<body>
+  <h1>About Me</h1>
+  <p> My name is Daniel Ranjel. Im originally from the Bay Area but currently
+    live in Vancouver, Washington. I work at Amazon but plan on changing
+    careers and move into coding. Here's a link to my favorite website .
+    Also below you will find some of my activities i enjoy doing when Im
+    not working or going to school.
+  </p>
+     <a href="https://www.espn.com"> This is the Link.</a>
+     <ol>
+       <li>Watching NFL football</li>
+       <li>Watching movies</li>
+       <li>Golfing</li>
+       <li> trips to the casino</li>
+       <li> trying new restaurants</li>
+      </ol>
+      <h1> Work</h1>
+      <p> Most of my work experience has been in management. I enjoy building
+          and training my own team. I take great pride in my teams! Ive had had 
+          the pleasure of being a leader in many different fields. From security
+          to retail. Automotive to warehouse. Here is a list of some my skills:
+      </p>
+      <ul>
+        <li>25+ years management experience</li>
+        <li>leadership skills</li>
+        <li>microsoft word and excel trained</li>
+        <li>Excellent communication skills</li>
+        <img src="./football.jpg">
+        <a href="https://www.espn.com"> This is a link to the greatest web site ever!</a>
+  
+</body>
+</html>
