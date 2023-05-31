@@ -36,6 +36,9 @@
             <div class="collapse navbar-collapse" id="toggleMobileMenu">
             <ul class="navbar-nav ms-auto text-center">
               <li>
+                <a class="nav-link active text-warning" href="aboutme.html">About Me</a>
+              </li>
+              <li>
                 <a class="nav-link active text-warning" href="projects.html">Projects</a>
               </li>
               <li>
@@ -87,7 +90,7 @@
           <!-- All <p> tags have a fade-in effect when the site loads(Plan to do more with this once we get into JavaScript) -->
           <div class="main-container container border-top border-1 border-dark pt-5">
             
-            <p class="text choco mb-3 fade-in-text border border-warning bg-opacity-25 bg-dark p-5">i'm a hard working individual but I also like to have fun. I’m currently workingI hav with <a class="link-dark" target="_blank" href="https://www.correlation-one.com/"> <b>Correlation One</b></a> on learning andbuilding new skills in HTML, CSS, WordPress, and JavaScript. Im currently working for Amazon. During my time here, I have been given a fantastic opportunity to pursue a new career using Career Choice. I plan on taking full advantage of this opportunity and pivot my career into the tech field! I've been in management for over 25 years in various industries from restaraunt to retail, customer service to security. It's giving me a unique perspective on customer needs and how technology can be used to improve the overall customer experience.
+            <p><span style="color:blue;"> class="text choco mb-3 fade-in-text border border-warning bg-opacity-25 bg-dark p-5">i'm a hard working individual but I also like to have fun. I’m currently workingI hav with <a class="link-dark" target="_blank" href="https://www.correlation-one.com/"> <b>Correlation One</b></a> on learning andbuilding new skills in HTML, CSS, WordPress, and JavaScript. Im currently working for Amazon. During my time here, I have been given a fantastic opportunity to pursue a new career using Career Choice. I plan on taking full advantage of this opportunity and pivot my career into the tech field! I've been in management for over 25 years in various industries from restaraunt to retail, customer service to security. It's giving me a unique perspective on customer needs and how technology can be used to improve the overall customer experience.
             I am passionate about continuing my growth as a software developer and staying up to date with the latest technologies and programming languages. As a strong communicator and collaborator I enjoy working in team environments to create innovative solutions that improve efficiency and drive success. I'm a huge football fan and my favorite team is the <a href="https://www.raiders.com"> Las Vegas Raiders!!</p>
           </div>  
             <h2 class="text-center display-6 adjust text-warning rounded-top">Objectives</h2></h2>
